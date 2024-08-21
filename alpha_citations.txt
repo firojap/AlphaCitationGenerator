@@ -1,0 +1,155 @@
+ibitem[Aar09]{Aarsæther} \textbf{Aarsæther, K. G.}, and \textbf{Moan, T.}, \textit{Estimating navigation patterns from AIS.}, The Journal of Navigation, 62(4),  587-607., 2009.
+
+ibitem[Ale18]{Alessandrini} \textbf{Alessandrini, A.}, \textbf{Mazzarella, F.}, and \textbf{Vespe, M.}, \textit{Estimated time of arrival using historical vessel tracking data.}, IEEE Transactions on Intelligent Transportation Systems, 20(1), 7-15., 2018.
+
+ibitem[And15]{Androjna} \textbf{Androjna, A.}, \textbf{Perkovič, M.}, \textbf{Pavic, I.}, and \textbf{Mišković, J.}, \textit{AIS data vulnerability indicated by a spoofing case-study.}, Applied Sciences, 11(11), 5015., 2021.
+
+ibitem[Bac18]{Bachar} \textbf{Bachar, M.}, \textbf{Elimelech, G.}, \textbf{Gat, I.}, \textbf{Sobol, G.}, \textbf{Rivetti, N.}, and \textbf{Gal, A.}, \textit{Venilia, on-line learning and prediction of vessel destination.},  In Proceedings of the 12th ACM International Conference on Distributed and Event-Based Systems (pp. 209-212)., 2018.
+
+ibitem[Bha18]{Bhagoji} \textbf{Bhagoji, A. N.}, \textbf{Cullina, D.}, \textbf{Sitawarin, C.}, and \textbf{Mittal, P.}, \textit{Enhancing robustness of machine learning systems via data transformations.}, In 2018 52nd Annual Conference on Information Sciences and Systems (CISS) (pp. 1-5). IEEE., 2018.
+
+ibitem[Bla14]{Blancas} \textbf{Blancas, L. C.}, and \textbf{El-Hifnawi, M. B.}, \textit{Facilitating trade through competitive, low-carbon transport: the case for Vietnam's inland and coastal waterways.}, World Bank Publications., 2014.
+
+ibitem[Bmd16]{bmdv} \textbf{BMDV}, \textit{Waterways as Transport Routes.}, Federal Ministry of Digital and Transport., 2016.
+
+ibitem[Bud15]{Budipriyanto} \textbf{Budipriyanto, A.}, \textbf{Wirjodirdjo, B.}, \textbf{Pujawan, N.}, and \textbf{Gurning, S.}, \textit{Berth allocation problem under uncertainty: A conceptual model using collaborative approach.}, Procedia Manufacturing, 4, 429-437., 2015.
+
+ibitem[Cam20]{Cammin} \textbf{Cammin, P.}, \textbf{Sarhani, M.}, \textbf{Heilig, L.}, and \textbf{Voß, S.}, \textit{Applications of real-time data to reduce air emissions in maritime ports.}, In International Conference on Human-Computer Interaction (pp. 31-48). Cham: Springer International Publishing., 2020.
+
+ibitem[Ccn19]{ccnr} \textbf{CCNR}, \textit{Market Insight Inland Navigation in Europe.}, CCNR., 2019.
+
+ibitem[Cho06]{Cho} \textbf{Cho, K.}, \textbf{Van Merriënboer, B.}, \textbf{Gulcehre, C.}, \textbf{Bahdanau, D.}, \textbf{Bougares, F.}, \textbf{Schwenk, H.} and \textbf{Bengio, Y.}, \textit{Learning phrase representations using RNN encoder-decoder for statistical machine translation.}, arXiv preprint arXiv:1406.1078., 2014.
+
+ibitem[Cho06]{cho} \textbf{Cho, K.},  and \textbf{Van Merriënboer, B.}, \textbf{Gulcehre, C.}, \textbf{Bahdanau, D.}, \textbf{Bougares, F.}, \textbf{Schwenk, H.}, and \textbf{ Bengio, Y.}, \textit{Learning phrase representations using RNN encoder-decoder for statistical machine translation.}, arXiv preprint., arXiv:1406.1078.
+
+ibitem[Cho15]{Chollet} \textbf{Chollet, F.}, \textit{Keras}., 2015.
+
+ibitem[Cro04]{Crompton} \textbf{Crompton, G.}, \textit{The Tortoise and the Economy’ Inland Waterway Navigation in International Economic History.}, The Journal of Transport History., 25(2), 1-22., 2004.
+
+ibitem[Dob16]{Dobrkovic} \textbf{Dobrkovic, A.}, \textbf{ Iacob, M. E.}, \textbf{van Hillegersberg, J.}, \textbf{Mes, M. R.}, and \textbf{Glandrup, M.}, \textit{Towards an approach for long term AIS-based prediction of vessel arrival times.}, Logistics and supply chain innovation: Bridging the Gap between theory and practice,  281-294., 2016.
+
+ibitem[Doe75]{Doerflinger} \textbf{Doerflinger, F.}, \textit{ Inland Waterways—A New Environmental Dimension.}, Environmental Conservation, 2(2),  89-98., 1975.
+
+ibitem[El23]{Mekkaoui} \textbf{El Mekkaoui, S.}, \textbf{Benabbou, L.}, and \textbf{Berrado, A.}, \textit{Deep learning models for vessel’s ETA prediction: bulk ports perspective.}, Flexible Services and Manufacturing Journal, 35(1), 5-28., 2023.
+
+ibitem[Fam97]{Famili} \textbf{Famili, A.}, \textbf{Shen, W. M.}, \textbf{Weber, R.}, and \textbf{Simoudis, E.}, \textit{Data preprocessing and intelligent data analysis.}, Intelligent data analysis, 1(1), 3-23., 1997.
+
+ibitem[Fan11]{Fancello} \textbf{Fancello, G.}, \textbf{ Pani, C.}, \textbf{ Pisano, M.}, \textbf{Serra, P.}, \textbf{Zuddas, P.}, and \textbf{Fadda, P.}, \textit{Prediction of arrival times and human resources allocation for container terminal.}, Maritime Economics \& Logistics, 13, 142-173., 2011.
+
+ibitem[Gal19]{Gal} \textbf{Gal, M. S.}, and \textbf{Rubinfeld, D. L.} \textit{Data standardization.},  NYUL Rev., 94, 737., 2019.
+
+ibitem[Gar27]{Gardner} \textbf{Gardner, M. W.}, and \textbf{ Dorling, S. R.}, \textit{Artificial neural networks (the multilayer perceptron)—a review of applications in the atmospheric sciences.}, Atmospheric environment, 32(14-15), 2627-2636., 1998.
+
+ibitem[Haf17]{Hafsi} \textbf{Hafsi, N.}, \textit{PortNet in Morocco.}, 2017.
+
+ibitem[Har07]{Harati-Mokhtari} \textbf{Harati-Mokhtari, A.}, \textbf{ Wall, A.}, \textbf{Brooks, P.}, and \textbf{Wang, J.}, \textit{Automatic Identification System (AIS): data reliability and human error implications.}, The Journal of Navigation, 60(3),  373-389., 2007.
+
+ibitem[Har07]{Harati-Mokhtari} \textbf{Harati-Mokhtari, A.}, \textbf{Wall, A.}, \textbf{Brooks, P.}, and \textbf{Wang, J.}, \textit{Automatic Identification System (AIS): data reliability and human error implications.}, the Journal of Navigation,  60(3), 373-389., 2007.
+
+ibitem[Hoc35]{Hochreiter} \textbf{Hochreiter, S.}, and \textbf{Schmidhuber, J.}, \textit{ Long short-term memory.}, Neural computation, 9(8), 1735-1780., 1997.
+
+ibitem[I.16]{Goodfellow I} \textbf{I. Goodfellow}, \textbf{Y. Bengio}, and \textbf{A. Courville}, \textit{Deep Learning}, MIT Press., 2016.
+
+ibitem[Int02]{IMO} \textbf{International Maritime Organization}, \textit{Guidelines for the onboard operational use of shipborne Automatic Indentification Systems (AIS).}, Jan 2002.
+
+ibitem[J.17]{Mou} \textbf{J. M. Mou}, \textbf{G. H. Tang}, and \textbf{H. Rong}, \textit{Predict maneuvering indices using AIS data by ridge regression}, Zeszyty Naukowe/Akademia Morska w Szczecinie., 2017.
+
+ibitem[Jah18]{Jahn} \textbf{Jahn, C.}, and \textbf{ Scheidweiler, T.}, \textit{Port call optimization by estimating ships’ time of arrival.}, In Dynamics in Logistics: Proceedings of the 6th International Conference LDIC 2018, Bremen, Germany (pp. 172-177). Springer International Publishing., 2018.
+
+ibitem[Jia12]{Jiacai} \textbf{Jiacai, P.}, \textbf{Qingshan, J.}, \textbf{Jinxing, H.}, and \textbf{Zheping, S.}, \textit{An AIS data visualization model for assessing maritime traffic situation and its applications.}, Procedia Engineering, 29,  365-369., 2012.
+
+ibitem[Jon19]{Jonquais} \textbf{Jonquais, A.}, and \textbf{Krempl, F.}, \textit{Predicting shipping time with machine learning.}, Massachusetts Institute of Technolology., 2019.
+
+ibitem[Kim17]{Kim} \textbf{Kim, S.}, \textbf{Kim, H.}, and \textbf{Park, Y. }, \textit{Early detection of vessel delays using combined historical and real-time information.}, Journal of the operational research society, 68, 182-191., 2017.
+
+ibitem[Kir73]{Kiranyaz} \textbf{Kiranyaz, S.},  and \textbf{Avci, O.}, \textbf{Abdeljaber, O.}, \textbf{Ince, T.}, \textbf{ Gabbouj, M.}, and \textbf{Inman, D. J.}, \textit{1D convolutional neural networks and applications: A survey}, Mechanical systems and signal processing, 151, 107398.
+
+ibitem[Kos17]{Kostadinov} \textbf{Kostadinov S.}, \textit{Understanding GRU Networks.}, https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be., 2017.
+
+ibitem[Kwu21]{Kwun} \textbf{Kwun, H.}, and \textbf{Bae, H.}, \textit{Prediction of vessel arrival time using auto identification system data.}, Int J Innov Comput Inf Control, 17(2), 725-734., 2021.
+
+ibitem[L.20]{Bennett L} \textbf{L. Bennett}, \textbf{B. Melchers}, and \textbf{B. Proppe}, \textit{Curta: A General-purpose High-Performance Computer at ZEDAT}, Freie Universität Berlin., 2020.
+
+ibitem[Lan14]{Langer} \textbf{Langer, T.}, and \textbf{Vaidyanathan, S.}, \textit{Smart Freight: Applications of Information and Communications Technologies to Freight System Efficiency.}, American Council for an Energy-Efficient Economy., July 2014.
+
+ibitem[Le18]{Le} \textbf{Le Tixerant, M.}, \textbf{Le Guyader, D.}, \textbf{Gourmelon, F.}, and \textbf{Queffelec, B.}, \textit{ How can Automatic Identification System (AIS) data be used for maritime spatial planning?}, Ocean \& Coastal Management, 166,  18-30., 2018.
+
+ibitem[Le18]{Tixerant} \textbf{Le Tixerant, M.}, \textbf{ Le Guyader, D.}, \textbf{Gourmelon, F.}, and \textbf{Queffelec, B.}, \textit{How can Automatic Identification System (AIS) data be used for maritime spatial planning?}, Ocean & Coastal Management, 166, 18-30., 2018.
+
+ibitem[Lem12]{Lemnaru} \textbf{Lemnaru, C.}, \textit{trategies for dealing with real world classification problems.}, Faculty of Computer Science and Automation, Universitatea Technica, Din Cluj-Napoca., 2012.
+
+ibitem[Lun17]{Lundberg} \textbf{Lundberg, S. M.}, and \textbf{Lee, S. I.}, \textit{A unified approach to interpreting model predictions.}, Advances in neural information processing systems, 30., 2017.
+
+ibitem[M.73]{Schuster} \textbf{M. Schuster},  and \textbf{K. K. Paliwal}, \textit{Bidirectional recurrent neural networks}, IEEE Transactions on Signal Processing., vol. 45, no. 11, pp. 2673-2681, Nov. 1997.
+
+ibitem[Maz85]{Mazzarella} \textbf{Mazzarella, F.}, \textbf{Vespe, M.}, and \textbf{Santamaria, C.}, \textit{SAR ship detection and self-reporting data fusion based on traffic knowledge.}, IEEE Geoscience and Remote Sensing Letters, 12(8), 1685-1689., 2015.
+
+ibitem[Mei17]{Meijer} \textbf{Meijer, R.}, \textit{ETA prediction: Predicting the ETA of a container vessel based on route identification using AIS data.}, Master’s thesis, Delft University of Technology., 2017.
+
+ibitem[Ngu21]{Nguyen} \textbf{Nguyen, Q. H.}, \textbf{Ly, H. B.}, \textbf{Ho, L. S.}, \textbf{Al-Ansari, N.}, \textbf{Le, H. V.}, \textbf{Tran, V. Q.}, \textbf{Prakash I.} and \textbf{Pham, B. T.}, \textit{Influence of data splitting on performance of machine learning models in prediction of shear strength of soil.}, Mathematical Problems in Engineering, 2021(1), 4832864., 2021.
+
+ibitem[Nom21]{Noman} \textbf{Noman A. A.}, \textbf{Heuermann, A.}, \textbf{Wiesner, S. A.}, and \textbf{Thoben, K. D.}, \textit{Towards data-driven gru based eta prediction approach for vessels on both inland natural and artificial waterways.}, In 2021 IEEE International Intelligent Transportation Systems Conference (ITSC) (pp. 2286-2291). 2021, September.
+
+ibitem[Ogu10]{Ogura} \textbf{Ogura, T.}, \textbf{Inoue, T.}, and \textbf{Uchihira, N.}, \textit{Prediction of arrival time of vessels considering future weather conditions.}, Applied Sciences, 11(10), 4410., 2021.
+
+ibitem[Ola15]{Olah} \textbf{Olah C.}, \textit{Understanding LSTM Networks.}, https://colah.github.io/posts/2015-08-Understanding-LSTMs., 2015.
+
+ibitem[Pan14]{Pani} \textbf{Pani, C.}, \textbf{Fadda, P.}, \textbf{Fancello, G.}, \textbf{Frigau, L.}, and \textbf{Mola, F.}, \textit{A data mining approach to forecast late arrivals in a transhipment container terminal.}, Transport, 29(2)., 2014.
+
+ibitem[Pan15]{Pani2015} \textbf{Pani, C.}, \textbf{ Vanelslander, T.}, \textbf{Fancello, G.}, and \textbf{Cannas, M.}, \textit{Prediction of late/early arrivals in container terminals-a qualitative approach.}, European Journal of Transport and Infrastructure Research, 15(4), 536-550., 2015.
+
+ibitem[Par00]{Park} \textbf{Park, K.}, \textbf{Sim, S.}, and \textbf{Bae, H.}, \textit{Vessel estimated time of arrival prediction system based on a path-finding algorithm.}, Maritime Transport Research, 2, 100012., 2021.
+
+ibitem[Par16]{Parolas} \textbf{Parolas, I.}, \textit{ETA prediction for containerships at the Port of Rotterdam using Machine Learning Techniques.}, Master’s thesis, Delft University of Technology., 2016.
+
+ibitem[Por22]{port} \textbf{Port of Rotterdam}, \textit{Up to 14\% less containership CO2 emissions through Just In Time arrivals}, https://www.portofrotterdam.com/., 2022.
+
+ibitem[Red08]{Redoutey} \textbf{Redoutey, M.}, \textbf{Scotti, E.}, \textbf{Jensen, C.}, \textbf{Ray, C.} ,and \textbf{Claramunt, C.}, \textit{Efficient vessel tracking with accuracy guarantees.}, In Web and Wireless Geographical Information Systems: 8th International Symposium, W2GIS 2008, Shanghai, China, Proceedings 8 (pp. 140-151)., December 11-12, 2008.
+
+ibitem[Rob57]{Robusto} \textbf{Robusto, C. C.}, \textit{The cosine-haversine formula.}, The American Mathematical Monthly, 64(1), 38-40., 1957.
+
+ibitem[Roş18]{Roşca} \textbf{Roşca, V.}, \textbf{Onica, E.}, \textbf{Diac, P.}, and \textbf{Amariei, C.}, \textit{Predicting destinations by nearest neighbor search on training vessel routes.},  In Proceedings of the 12th ACM International Conference on Distributed and Event-Based Systems (pp. 224-225)., 2018.
+
+ibitem[Rud09]{Ruder} \textbf{Ruder, S.}, \textit{An overview of gradient descent optimization algorithms.}, arXiv preprint arXiv:1609.04747., 2016.
+
+ibitem[Sal17]{Salleh} \textbf{Salleh, N. H. M.}, \textbf{ Riahi, R.}, \textbf{Yang, Z.}, and \textbf{ Wang, J.}, \textit{Predicting a containership's arrival punctuality in liner operations by using a fuzzy rule-based bayesian network (frbbn).}, The Asian Journal of Shipping and Logistics, 33(2), 95-104., 2017.
+
+ibitem[She15]{Shelmerdine} \textbf{Shelmerdine, R. L.}, \textit{Teasing out the detail: How our understanding of marine AIS data can better inform industries, developments, and planning.}, Marine Policy, 54,  17-25., 2015.
+
+ibitem[Shu37]{Shuang} \textbf{Shuang, S.}, \textbf{Yan, C.}, and \textbf{Jinsong, Z.}, \textit{Trajectory outlier detection algorithm for ship AIS data based on dynamic differential threshold.},  In Journal of Physics: Conference Series (Vol. 1437, No. 1, p. 012013). IOP Publishing., 2020.
+
+ibitem[Sil13]{Silveira} \textbf{Silveira, P.}, \textbf{Teixeira, A. P.}, and \textbf{Soares, C. G.}, \textit{Use of AIS data to characterise marine traffic patterns and ship collision risk off the coast of Portugal.}, The Journal of Navigation, 66(6),  879-898., 2013.
+
+ibitem[Smi03]{Smiti} \textbf{Smiti, A.}, \textit{A critical overview of outlier detection methods.},  IComputer Science Review, 38, 100306., 2020.
+
+ibitem[Som22]{Sommerwerk} \textbf{Sommerwerk, N.}, \textbf{Bloesch, J.}, \textbf{Baumgartner, C.}, \textbf{Bittl, T.}, \textbf{Čerba, D.}, \textbf{Csányi, B.} and \textbf{Ungureanu, L.}, \textit{The Danube river basin.}, Elsevier.,pp. 81-180., 2022.
+
+ibitem[Tal13]{Talavera} \textbf{Talavera, A.}, \textbf{Aguasca, R.}, \textbf{Galván, B.}, and \textbf{Cacereño, A.}, \textit{Application of Dempster–Shafer theory for the quantification and propagation of the uncertainty caused by the use of AIS data.}, Reliability Engineering \& System Safety, 111, (pp. 95-105), 2013.
+
+ibitem[Ten21]{TensorFlow} \textbf{TensorFlow Team}, \textit{TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems}., 2021.
+
+ibitem[Tuk77]{Tukey} \textbf{Tukey, J. W.} \textit{Exploratory data analysis.}, (Vol. 2, pp. 131-160). Reading, MA: Addison-wesley., 1977.
+
+ibitem[Unc23]{unctad} \textbf{Unctad}, \textit{Review of Maritime Transport 2023.}, UNCTAD., 2023.
+
+ibitem[Unc16]{unctad2} \textbf{Unctad}, \textit{Review of Maritime Transport 2016.}, UNCTAD., 2016.
+
+ibitem[Vee22]{Veenstra} \textbf{Veenstra, A. W.}, and \textbf{Harmelink, R. L.}, \textit{Process mining ship arrivals in port: the case of the Port of Antwerp.}, Maritime Economics \& Logistics, 24(3), 584-601., 2022.
+
+ibitem[Ves12]{Vespe} \textbf{Vespe, M.}, \textbf{Visentini, I.}, \textbf{Bryan, K.}, and \textbf{Braca, P.}, \textit{Unsupervised learning of maritime traffic patterns for anomaly detection.}, 14-14., 2012.
+
+ibitem[Vin18]{Vinutha} \textbf{Vinutha, H. P.}, \textbf{Poornima, B.}, and \textbf{Sagar, B. M.}, \textit{Detection of outliers using interquartile range technique from intrusion dataset.},In Information and decision sciences: Proceedings of the 6th international conference on ficta (pp. 511-518). Springer Singapore., 2018.
+
+ibitem[Wan13]{Wang1} \textbf{Wang, Y.}, \textbf{Zhang, J.}, \textbf{Chen, X.}, \cite{Chu, X.}, and \textbf{Yan, X.}, \textit{A spatial–temporal forensic analysis for inland–water ship collisions using AIS data.}, Safety science, 57,  187-202., 2013.
+
+ibitem[Wan53]{Wang} \textbf{Wang, Y.}, \textbf{Chen, X.}, \textbf{Li, T.}, \textbf{Liu, H.}, and \textbf{Yang, S.}, \textit{Sustainability of global golden inland waterways.},  Nature Communications, 11(1), 1553., 2020.
+
+ibitem[Wei17]{Zhang et al.} \textbf{Weibin Z.}, \textbf{Cole K.}, \textbf{Dongfang M.}, \textbf{Yinhai W.}, and \textbf{Jinjun T.}, \textit{A Systematic Approach for Collision Risk Analysis based on AIS Data}, Cambridge University Press, Journal of Navigation, vol. 70, num. 5, pp. 1117-1132, May 2017.
+
+ibitem[Wu67]{Wu} \textbf{Wu, X.}, \textbf{Roy, U.}, \textbf{Hamidi, M.}, and \textbf{Craig, B. N.}, \textit{Estimate travel time of ships in narrow channel based on AIS data.},  Ocean Engineering, 202, 106790., 2020.
+
+ibitem[Yan10]{Yan} \textbf{Yan, Z.}, \textbf{Cheng, L.}, \textbf{He, R.}, and \textbf{Yang, H.}, \textit{Extracting ship stopping information from AIS data.}, Ocean Engineering, 250, 111004., 2022.
+
+ibitem[Yan19]{Yang} \textbf{Yang, D.}, \textbf{Wu, L.}, \textbf{Wang, S.}, \textbf{Jia, H.}, and \textbf{Li, K. X.}, \textit{How big data enriches maritime research–a critical review of Automatic Identification System (AIS) data applications.}, Transport Reviews, 39(6),  755-773., 2019.
+
+ibitem[Yu18]{Yu} \textbf{Yu, J.}, \textbf{ Tang, G.}, \textbf{Song, X.}, \textbf{Song, X.}, \textbf{Qi, Y.}, \textbf{Li, D.}, and \textbf{Zhang, Y.}, \textit{Ship arrival prediction and its value on daily container terminal operation.}, Ocean Engineering, 157, 73-86., 2018.
